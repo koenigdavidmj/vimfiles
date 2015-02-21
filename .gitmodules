@@ -1,6 +1,3 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
-[submodule "bundle/vim-fswitch"]
-	path = bundle/vim-fswitch
-	url = git@github.com:derekwyatt/vim-fswitch.git
