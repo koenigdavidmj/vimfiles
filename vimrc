@@ -8,3 +8,5 @@ set expandtab
 
 set background=dark
 
+nmap <leader>s :FSHere<CR>
+
