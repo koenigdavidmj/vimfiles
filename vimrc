@@ -9,5 +9,10 @@ set wildmode=list:longest
 set background=dark
 set hlsearch
 
+if has('gui_macvim')
+    set guifont=Monaco:h14
+    colorscheme macvim
+endif
+
 nmap <leader>s :FSHere<CR>
 
